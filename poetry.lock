@@ -225,7 +225,7 @@ standard = ["colorama (>=0.4)", "httptools (>=0.4.0)", "python-dotenv (>=0.13)",
 
 [[package]]
 name = "wiki-random"
-version = "0.1.4"
+version = "0.1.5"
 description = "get random article from wikipedia"
 category = "main"
 optional = false
@@ -351,6 +351,6 @@ uvicorn = [
     {file = "uvicorn-0.18.3.tar.gz", hash = "sha256:9a66e7c42a2a95222f76ec24a4b754c158261c4696e683b9dadc72b590e0311b"},
 ]
 wiki-random = [
-    {file = "wiki-random-0.1.4.tar.gz", hash = "sha256:d915c1aafee4a25bae847438434837580e31fb93bac6127442f3b8c857fd5c72"},
-    {file = "wiki_random-0.1.4-py3-none-any.whl", hash = "sha256:0192365d558dd387bac868fc4ef87deb0c168b891df245f1194ede543dcee6c1"},
+    {file = "wiki-random-0.1.5.tar.gz", hash = "sha256:a82c5d132d0bc8f27349f085dd016e29f70e4dea759b69693e7666d8f08da926"},
+    {file = "wiki_random-0.1.5-py3-none-any.whl", hash = "sha256:a1131fb43abe5f27e520d118c502d447fc3098881a25cd387309d464c06b5368"},
 ]
